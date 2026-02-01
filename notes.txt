@@ -1,0 +1,6 @@
+The target variable is nearly perfectly balanced, making this a well-posed binary classification problem without the need for resampling techniques.”
+The system is not drifting wildly over time, which is good for model generalization.
+“Thane and Ludhiana demonstrate higher-than-average case resolution rates compared to other cities.”
+“Average police deployment is nearly identical for closed and non-closed cases, indicating that deployment volume alone is not a strong predictor of case resolution.”
+“Police deployment shows no independent effect on case closure when analyzed in isolation, likely due to confounding with crime severity and type.”
+Police deployment, when analyzed independently, shows no significant difference in case closure probability. This suggests that deployment is likely confounded with crime severity and type, and its impact must be analyzed conditionally rather than in isolation.
